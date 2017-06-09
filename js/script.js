@@ -1,5 +1,3 @@
-//business
-
 var ping1 = [];
 
 var pingPong = function (number) {
@@ -16,7 +14,7 @@ var pingPong = function (number) {
   }
 
 };
-//front-end
+
 
 $(document).ready(function() {
   $("form#ping-pong").submit(function() {

@@ -1,14 +1,18 @@
     body{
       height: 100%;
       width: 100%;
-      background-color: silver;
+      background-color: grey;
     }
     .section1{
       padding-top:30px;
     }
     .row1{
-      background-color: orange;
-      height: 100px
+      background-color: black;
+      height: 100px;
+      text-align: center;
+      color: white;
+
+
 
     }
     .about{

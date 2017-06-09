@@ -1,8 +1,7 @@
     body{
       height: 100%;
       width: 100%;
-      background-color: grey;
-    }
+      background-color: grey;  }
     .section1{
       padding-top:30px;
     }
@@ -17,6 +16,20 @@
     }
     .about{
       background-color: #27A967;
-      margin-top: 10px;
+      margin-top: 10px;}
 
-    }
+
+   .me{background-color: orange;}
+
+
+
+   p{
+      font-size: 30px;
+      font-family: cursive;}
+
+
+   h2{
+     font-size: 51px;
+     font-family: fantasy;
+     text-align: center;}
+   li{font-family: inherit;}

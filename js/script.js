@@ -26,7 +26,7 @@ $(document).ready(function() {
   pingPong(number);
 
   ping1.forEach(function (number) {
-    $("#output").append('<li>' + number + "</li>");
+    $("#userOutput").append('<li>' + number + "</li>");
 
   });
 
